@@ -1,2 +1,1 @@
-# HTTP-Reverse-Shell
-sdssd
+This is an HTTP reverse shell designed in Python. It's a stealthy malware/reverse shell for pen-testing/red teaming. It can be converted to an exe and sent to the victim. When the victim clicks it, the Attacker will get full shell/cmd access to the victim's computer. It is a stealthy malware made with firewalls and other defensive measures in mind. It uses port 80 and HTTP for communication because as we know most corporates only allow HTTP Web outgoing traffic all other traffic is blocked. It has features like taking screenshots, uploading/downloading files, full cmd access, port scanning etc
